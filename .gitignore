@@ -1,0 +1,18 @@
+# Build outputs
+/build/
+/build_clangd/
+/build_run/
+
+# XMake
+/.xmake/
+
+# Tooling caches
+/.cache/
+/compile_commands.json
+
+# Editor / IDE
+/.vscode/
+
+# OS / misc
+*.tmp
+*.log
