@@ -12,7 +12,11 @@
 
 # Editor / IDE
 /.vscode/
+/.clangd
+/NLCoroutine.code-workspace
 
 # OS / misc
 *.tmp
 *.log
+/NLCoroutine.code-workspace
+/.clangd
